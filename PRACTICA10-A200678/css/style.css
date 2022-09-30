@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(161, 51, 51);
+}
+nav{
+    background-color: rgb(12, 12, 158);
+}
+footer{
+    float: left;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 79px;
+    box-sizing: border-box;
+    border-top: 2px solid #000;
+    background-color: rgb(3, 145, 133);
+    color: rgb(119, 0, 24);
+    text-align: center;
+    padding-top: 10px;
+}
